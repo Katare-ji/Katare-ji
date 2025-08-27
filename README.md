@@ -31,7 +31,7 @@
 
 ### 📚 Learning Roadmap
 - [x] Python basics (hello world, variables, data types)
-- [ ] If-else, loops, functions
+- [x] If-else, loops, functions
 - [ ] Data structures (lists, dicts)
 - [ ] CLI tools & automation scripts
 - [ ] Contribute to a beginner-friendly repo
